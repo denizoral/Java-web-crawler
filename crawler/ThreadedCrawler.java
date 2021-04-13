@@ -1,3 +1,5 @@
+//Still working on threads.
+
 package crawler;
 
 import settings.Settings;
